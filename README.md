@@ -1,11 +1,25 @@
-Landing Page do Mario 🎮
-Uma landing page temática do Mario, desenvolvida com HTML e CSS, 100% responsiva, oferecendo uma experiência visual divertida e otimizada para diferentes dispositivos.
+# 🎮 Landing Page do Mario
 
-🛠 Tecnologias Utilizadas
-HTML5: Estrutura do site.
-CSS3: Estilização e design responsivo.
-Design Responsivo: Suporte para dispositivos móveis, tablets e desktops.
-🎯 Funcionalidades
-Design inspirado no universo do Mario.
-Layout totalmente responsivo para garantir compatibilidade em diferentes tamanhos de tela.
-Efeitos visuais e animações leves para uma experiência interativa.
+Uma landing page inspirada no universo do Mario, criada com **HTML**, **CSS** e **JavaScript**, garantindo uma experiência visual nostálgica, interativa e 100% responsiva para diferentes dispositivos.
+
+## 🛠 Tecnologias Utilizadas
+
+- **HTML5** → Estruturação do conteúdo.
+- **CSS3** → Estilização e design responsivo.
+- **JavaScript** → Interatividade e efeitos dinâmicos.
+- **Design Responsivo** → Adaptável para desktops, tablets e dispositivos móveis.
+
+## 🚀 Recursos
+
+- Interface temática baseada no universo do Mario.
+- Layout totalmente responsivo para melhor experiência do usuário.
+- Animações e efeitos visuais leves para maior interatividade.
+
+## 🌍 Demonstração Online
+
+🔗 **[Acesse a landing page aqui](landing-page-mario-beta.vercel.app)
+
+## 📬 Contato
+
+📧 E-mail: **devkaiofront@gmail.com**  
+💼 LinkedIn: **www.linkedin.com/in/kaiodev**
